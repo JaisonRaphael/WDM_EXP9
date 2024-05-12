@@ -1,6 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
 ### DATE: 
-### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
+### AIM: 
+To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
 RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, 
@@ -24,7 +25,11 @@ operators for preprocessing:
 3) ***Stemming:*** Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)"
 for this purpose.
 
-
 ### Output:
+![image](https://github.com/Janani-2003/WDM_EXP9/assets/94288340/852bc09a-6a07-441c-9fc2-427a1e3dceb7)
+![image](https://github.com/Janani-2003/WDM_EXP9/assets/94288340/a522fb92-096b-4f80-a01e-123aeb5bfcc3)
+![image](https://github.com/Janani-2003/WDM_EXP9/assets/94288340/fdb47620-6250-48e2-aa5d-84c2c86d8e4b)
+![image](https://github.com/Janani-2003/WDM_EXP9/assets/94288340/61fb014c-562b-41cd-b10f-be26f96281f9)
 
 ### Result:
+Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
